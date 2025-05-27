@@ -135,6 +135,23 @@ Selected datasets can be downloaded freely in JSON format
 </tr>
 <tr>
 <td width="112">
+<p>type</p>
+</td>
+<td width="468">
+<p>Type of speech contribution.</p>
+<p>Can be speech, interjection, or call to order.</p>
+</td>
+</tr>
+<tr>
+<td width="112">
+<p>topic</p>
+</td>
+<td width="468">
+<p>Topic of the speech, derived with the <a href="https://huggingface.co/chkla/parlbert-topic-german">ParlBERT-Topic-German</a> model.<br /> Includes an additional topic, <strong>&ldquo;Presidency Action&rdquo;,</strong> which flags speeches by the session president that contain session moderation.</p>
+</td>
+</tr>
+<tr>
+<td width="112">
 <p>text_raw</p>
 </td>
 <td width="468">
