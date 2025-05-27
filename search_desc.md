@@ -102,439 +102,314 @@ This section explains the functionality of the advanced search feature.
 </table>
 
 ## 2. Fields with fixed values
-<table width="587">
+<table><thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>field&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>value&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>description&nbsp;&nbsp;&nbsp;</th>
+  </tr></thead>
 <tbody>
-<tr>
-<td width="145">
-<p><strong>field</strong></p>
-</td>
-<td width="184">
-<p><strong>value</strong></p>
-</td>
-<td width="258">
-<p><strong>description</strong></p>
-</td>
-</tr>
-<tr>
-<td rowspan="26" width="145">
-<p>party</p>
-</td>
-<td width="184">
-<p>AfD</p>
-</td>
-<td width="258">
-<p>Alternative f&uuml;r Deutschland</p>
-</td>
-</tr>
-<tr>
-<td width="184">
-<p>BP</p>
-</td>
-<td width="258">
-<p>Bayernpartei</p>
-</td>
-</tr>
-<tr>
-<td width="184">
-<p>B&uuml;ndnis 90/Die Gr&uuml;nen</p>
-</td>
-<td width="258">
-<p>B&uuml;ndnis 90/Die Gr&uuml;nen</p>
-</td>
-</tr>
-<tr>
-<td width="184">
-<p>CDU</p>
-</td>
-<td width="258">
-<p>Christlich Demokratische Union Deutschlands</p>
-</td>
-</tr>
-<tr>
-<td width="184">
-<p>CSU</p>
-</td>
-<td width="258">
-<p>Christlich-Soziale Union</p>
-</td>
-</tr>
-<tr>
-<td width="184">
-<p>DIE LINKE</p>
-</td>
-<td width="258">
-<p>DIE LINKE</p>
-</td>
-</tr>
-<tr>
-<td width="184">
-<p>Die PARTEI</p>
-</td>
-<td width="258">
-<p>Die&nbsp;Partei f&uuml;r Arbeit, Rechtsstaat, Tierschutz, Elitenf&ouml;rderung und basisdemokratische Initiative</p>
-</td>
-</tr>
-<tr>
-<td width="184">
-<p>DKP</p>
-</td>
-<td width="258">
-<p>Deutsche Kommunistische Partei</p>
-</td>
-</tr>
-<tr>
-<td width="184">
-<p>DKP-DRP</p>
-</td>
-<td width="258">
-<p>Deutsche Konservative Partei &ndash; Deutsche Rechtspartei</p>
-</td>
-</tr>
-<tr>
-<td width="184">
-<p>DP</p>
-</td>
-<td width="258">
-<p>Die&nbsp;Deutsche Partei</p>
-</td>
-</tr>
-<tr>
-<td width="184">
-<p>DRP</p>
-</td>
-<td width="258">
-<p>Die Deutsche Reichspartei</p>
-</td>
-</tr>
-<tr>
-<td width="184">
-<p>DSU</p>
-</td>
-<td width="258">
-<p>Deutsche Soziale Union</p>
-</td>
-</tr>
-<tr>
-<td width="184">
-<p>FDP</p>
-</td>
-<td width="258">
-<p>Freie Demokratische Partei&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td width="184">
-<p>FDV</p>
-</td>
-<td width="258">
-<p>Freie Deutsche Volkspartei&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td width="184">
-<p>FVP</p>
-</td>
-<td width="258">
-<p>Freie Volkspartei</p>
-</td>
-</tr>
-<tr>
-<td width="184">
-<p>GB/BHE</p>
-</td>
-<td width="258">
-<p>Gesamtdeutsche Block/Bund der Heimatvertriebenen und Entrechteten&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td width="184">
-<p>GDP</p>
-</td>
-<td width="258">
-<p>Die&nbsp;Gesamtdeutsche Partei</p>
-</td>
-</tr>
-<tr>
-<td width="184">
-<p>LKR</p>
-</td>
-<td width="258">
-<p>Liberal-Konservative Reformer</p>
-</td>
-</tr>
-<tr>
-<td width="184">
-<p>non-party</p>
-</td>
-<td width="258">
-<p>Not a party member</p>
-</td>
-</tr>
-<tr>
-<td width="184">
-<p>not known</p>
-</td>
-<td width="258">
-<p>Party is unknown</p>
-</td>
-</tr>
-<tr>
-<td width="184">
-<p>PDS</p>
-</td>
-<td width="258">
-<p>Partei des Demokratischen Sozialismus</p>
-</td>
-</tr>
-<tr>
-<td width="184">
-<p>Schill-Partei</p>
-</td>
-<td width="258">
-<p>Partei Rechtsstaatlicher Offensive</p>
-</td>
-</tr>
-<tr>
-<td width="184">
-<p>SPD</p>
-</td>
-<td width="258">
-<p>Sozialdemokratische Partei Deutschlands</p>
-</td>
-</tr>
-<tr>
-<td width="184">
-<p>SSW</p>
-</td>
-<td width="258">
-<p>S&uuml;dschleswigsche W&auml;hlerverband</p>
-</td>
-</tr>
-<tr>
-<td width="184">
-<p>WAV</p>
-</td>
-<td width="258">
-<p>Wirtschaftliche Aufbau-Vereinigung</p>
-</td>
-</tr>
-<tr>
-<td width="184">
-<p>Zentrum</p>
-</td>
-<td width="258">
-<p>Deutsche Zentrumspartei</p>
-</td>
-</tr>
-<tr>
-<td rowspan="28" width="145">
-<p>agenda_type</p>
-</td>
-<td colspan="2" width="442">
-<p>&lt;empty&gt;</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="442">
-<p>announcement</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="442">
-<p>assumption</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="442">
-<p>briefing</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="442">
-<p>budget</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="442">
-<p>consultation</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="442">
-<p>current_affairs</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="442">
-<p>debate</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="442">
-<p>debate|debate</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="442">
-<p>election</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="442">
-<p>government_declaration</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="442">
-<p>interrogation</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="442">
-<p>motion</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="442">
-<p>NA</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="442">
-<p>oath</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="442">
-<p>objection</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="442">
-<p>opening</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="442">
-<p>point_of_order</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="442">
-<p>procedure</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="442">
-<p>question_time</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="442">
-<p>questioning_of_the_government</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="442">
-<p>recent_issues</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="442">
-<p>report</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="442">
-<p>resolution</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="442">
-<p>rules_of_procedure</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="442">
-<p>section</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="442">
-<p>Unknown</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="442">
-<p>urgent_question</p>
-</td>
-</tr>
-<tr>
-<td rowspan="6" width="145">
-<p>role</p>
-</td>
-<td width="184">
-<p>presidency</p>
-</td>
-<td width="258">
-<p>President of the session</p>
-</td>
-</tr>
-<tr>
-<td width="184">
-<p>mp</p>
-</td>
-<td width="258">
-<p>Member of the parliament</p>
-</td>
-</tr>
-<tr>
-<td width="184">
-<p>government</p>
-</td>
-<td width="258">
-<p>Member of the government</p>
-</td>
-</tr>
-<tr>
-<td width="184">
-<p>parliamentary_commissioner</p>
-</td>
-<td width="258">
-<p>Parliamentary commissioner</p>
-</td>
-</tr>
-<tr>
-<td width="184">
-<p>misc</p>
-</td>
-<td width="258">
-<p>Miscellaneous</p>
-</td>
-</tr>
-<tr>
-<td width="184">
-<p>federal_council</p>
-</td>
-<td width="258">
-<p>Member of the Federal Council</p>
-</td>
-</tr>
-<tr>
-<td width="145">
-<p>date</p>
-</td>
-<td colspan="2" width="442">
-<p>Format: yyyy-mm-dd</p>
-</td>
-</tr>
-<tr>
-<td width="145">
-<p>legislativeperiod</p>
-</td>
-<td colspan="2" width="442">
-<p>From 1 to 19</p>
-</td>
-</tr>
-</tbody>
-</table>
+  <tr>
+    <td rowspan="26">&nbsp;&nbsp;&nbsp;<br>party&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>AfD&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Alternative&nbsp;&nbsp;&nbsp;für Deutschland&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>BP&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Bayernpartei&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Bündnis&nbsp;&nbsp;&nbsp;90/Die Grünen&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Bündnis&nbsp;&nbsp;&nbsp;90/Die Grünen&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>CDU&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Christlich&nbsp;&nbsp;&nbsp;Demokratische Union Deutschlands&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>CSU&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Christlich-Soziale&nbsp;&nbsp;&nbsp;Union&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>DIE&nbsp;&nbsp;&nbsp;LINKE&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>DIE&nbsp;&nbsp;&nbsp;LINKE&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Die&nbsp;&nbsp;&nbsp;PARTEI&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Die Partei&nbsp;&nbsp;&nbsp;für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische&nbsp;&nbsp;&nbsp;Initiative&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>DKP&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Deutsche&nbsp;&nbsp;&nbsp;Kommunistische Partei&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>DKP-DRP&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Deutsche&nbsp;&nbsp;&nbsp;Konservative Partei – Deutsche Rechtspartei&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>DP&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Die Deutsche&nbsp;&nbsp;&nbsp;Partei&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>DRP&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Die&nbsp;&nbsp;&nbsp;Deutsche Reichspartei&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>DSU&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Deutsche&nbsp;&nbsp;&nbsp;Soziale Union&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>FDP&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Freie&nbsp;&nbsp;&nbsp;Demokratische Partei &nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>FDV&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Freie&nbsp;&nbsp;&nbsp;Deutsche Volkspartei &nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>FVP&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Freie&nbsp;&nbsp;&nbsp;Volkspartei&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>GB/BHE&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Gesamtdeutsche&nbsp;&nbsp;&nbsp;Block/Bund der Heimatvertriebenen und Entrechteten &nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>GDP&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Die Gesamtdeutsche&nbsp;&nbsp;&nbsp;Partei&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>LKR&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Liberal-Konservative&nbsp;&nbsp;&nbsp;Reformer&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>non-party&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Not a party member&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>not&nbsp;&nbsp;&nbsp;known&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Party is unknown&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>PDS&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Partei&nbsp;&nbsp;&nbsp;des Demokratischen Sozialismus&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Schill-Partei&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Partei&nbsp;&nbsp;&nbsp;Rechtsstaatlicher Offensive&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>SPD&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Sozialdemokratische&nbsp;&nbsp;&nbsp;Partei Deutschlands&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>SSW&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Südschleswigsche&nbsp;&nbsp;&nbsp;Wählerverband&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>WAV&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Wirtschaftliche&nbsp;&nbsp;&nbsp;Aufbau-Vereinigung&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Zentrum&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Deutsche&nbsp;&nbsp;&nbsp;Zentrumspartei&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="29">&nbsp;&nbsp;&nbsp;<br>agenda_type&nbsp;&nbsp;&nbsp;</td>
+    <td colspan="2"></td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>&lt;empty&gt;&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>announcement&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>assumption&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>briefing&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>budget&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>consultation&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>current_affairs&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>debate&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>debate|debate&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>election&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>government_declaration&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>interrogation&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>motion&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>NA&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>oath&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>objection&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>opening&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>point_of_order&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>procedure&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>question_time&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>questioning_of_the_government&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>recent_issues&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>report&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>resolution&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>rules_of_procedure&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>section&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>Unknown&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>urgent_question&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="6">&nbsp;&nbsp;&nbsp;<br>role&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>presidency&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>President of the session&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>mp&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Member of the parliament&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>government&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Member of the government&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>parliamentary_commissioner&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Parliamentary&nbsp;&nbsp;&nbsp;commissioner&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>misc&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Miscellaneous&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>federal_council&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Member of the Federal Council&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>date&nbsp;&nbsp;&nbsp;</td>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>Format: yyyy-mm-dd&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>legislativeperiod&nbsp;&nbsp;&nbsp;</td>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>From 1 to 19&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="3">&nbsp;&nbsp;&nbsp;<br>type&nbsp;&nbsp;&nbsp;</td>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>speech&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>call to order&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>interjection&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="22">&nbsp;&nbsp;&nbsp;<br>topic&nbsp;&nbsp;&nbsp;</td>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>Agriculture&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>Public&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>Domestic&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>Culture&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>Defense&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>Labor&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>Civil&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>Macroeconomics&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>Technology&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>Law&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>International&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>Government&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>Foreign&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>Transportation&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>Environment&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>Immigration&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>Social&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>Energy&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>Health&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>Housing&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>Education&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>Presidency&nbsp;&nbsp;&nbsp;Action&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody></table>
