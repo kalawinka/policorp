@@ -8,4 +8,4 @@ Currently, the platform hosts a collection of the official protocols of plenary 
 We offer political scientists and multidisciplinary researchers access to structured data that is easily searchable through the web search interface. With the advanced search functionality, researchers can apply logical operations such as AND, OR, and NOT to combine or exclude search criteria, making it easier to filter through vast amounts of parliamentary debate data. The search can be customised by combining multiple fields and applying logical operators to uncover intricate patterns and insights within the data. Selected datasets can be downloaded freely in JSON format, providing a convenient option for further analysis using computational tools.
 
 
-This work was funded by the German Research Foundation (DFG) via grant: MA 3964/7 3.
+This work was funded by the German Research Foundation (DFG) via grant: MA 3964/7-3.
