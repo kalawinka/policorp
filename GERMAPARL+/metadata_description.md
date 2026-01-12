@@ -155,7 +155,6 @@ This section explains the functionality of the advanced search feature.
 | Housing |
 | Education |
 | Presidency Action |
-                                                                             |
 
 ### Date
 
