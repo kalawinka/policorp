@@ -4,7 +4,7 @@
 |------|-------------|
 | session_id | Internal unique ID for each session |
 | speech_id | Internal unique ID for each speech contribution within the agenda |
-| speaker_id | Unique speaker ID. Corresponds with the speaker ID from the database of German Parliament Members |
+| speaker_id | Unique speaker ID. Corresponds with the speaker ID from the original StateParl dataset |
 | party_id | Internal unique ID for each party |
 | legislativeperiod | The legislative period |
 | sessionno | The session number |
