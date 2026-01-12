@@ -48,7 +48,7 @@ This section explains the functionality of the advanced search feature.
 
 ### Party
 
-| **Field name**                    | **Description**  |
+| **Field name**              | **Description**  |
 |-----------|-------------|
 | AfD | Alternative für Deutschland |
 | BP | Bayernpartei |
