@@ -84,31 +84,31 @@ This section explains the functionality of the advanced search feature.
 
 | **Field name**                    | **Description**                                                                                                              |
 | --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| **announcement**                  | A formal notification of information or events raised to the plenary (not always debated).                                             |
-| **assumption**                    | A presumption or given premise used in a motion or debate; could refer to assumed facts to be debated.                                 |
-| **briefing**                      | An informational presentation to members, not a decision item (e.g., government updates).                                              |
-| **budget**                        | Discussions or decisions on budget matters; often part of budget committee or plenary sessions.                                        |
-| **consultation**                  | Review or preparation of issues before full debate; consultation with committees or groups.                                            |
-| **current_affairs**               | Debates or statements on topical issues of immediate public relevance.                                                                 |
-| **debate**                        | Discussion by Members of Parliament on a topic or proposal.                                                                            |
-| **election**                      | Formal election process within the Bundestag (e.g., electing the President of the Bundestag or Chancellor).                            |
-| **government_declaration**        | A statement by the government (e.g., Chancellor) on policy or plans, often followed by debate.                                         |
-| **interrogation**                 | Formal questioning of government ministers or representatives (parliamentary scrutiny).                                                |
-| **motion**                        | A formal proposal submitted by a Member or group of Members for debate or decision.                                                    |
-| **oath**                          | Swearing in of Members or office holders (e.g., at the start of a legislative period).                                                 |
-| **objection**                     | A formal objection to an agenda item or decision, potentially affecting adoption of items.                                             |
-| **opening**                       | The start of a plenary session (procedural item).                                                                                      |
-| **point_of_order**                | A procedural challenge raised during a sitting to question whether rules of procedure are being followed.                              |
-| **procedure**                     | Items related to internal Bundestag processes and rules.                                                                               |
-| **question_time**                 | A scheduled session in which Members ask questions to government representatives.                                                      |
-| **questioning_of_the_government** | A specific form of interrogation or questioning directed at the government’s actions.                                                  |
-| **recent_issues**                 | Topics of recent political or societal importance flagged for discussion.                                                              |
-| **report**                        | Presentation or discussion of reports from committees, commissions, or government bodies.                                              |
-| **resolution**                    | A formal decision or position adopted by the Bundestag.                                                                                |
-| **rules_of_procedure**            | Materials or items concerning the parliamentary rules themselves.                                                                      |
-| **section**                       | A structural subdivision in documents or protocols.                                                                                    |
-| **urgent_question**               | A question raised on an urgent matter requiring timely government response (similar to “current affairs”).                             |
-| **<empty>**                       | Not known.                                                                                  |
+| announcement                  | A formal notification of information or events raised to the plenary (not always debated).                                             |
+| assumption                   | A presumption or given premise used in a motion or debate; could refer to assumed facts to be debated.                                 |
+| briefing                     | An informational presentation to members, not a decision item (e.g., government updates).                                              |
+| budget                      | Discussions or decisions on budget matters; often part of budget committee or plenary sessions.                                        |
+| consultation                 | Review or preparation of issues before full debate; consultation with committees or groups.                                            |
+| current_affairs              | Debates or statements on topical issues of immediate public relevance.                                                                 |
+| debate                       | Discussion by Members of Parliament on a topic or proposal.                                                                            |
+| election                      | Formal election process within the Bundestag (e.g., electing the President of the Bundestag or Chancellor).                            |
+| government_declaration        | A statement by the government (e.g., Chancellor) on policy or plans, often followed by debate.                                         |
+| interrogation                 | Formal questioning of government ministers or representatives (parliamentary scrutiny).                                                |
+| motion                       | A formal proposal submitted by a Member or group of Members for debate or decision.                                                    |
+| oath                         | Swearing in of Members or office holders (e.g., at the start of a legislative period).                                                 |
+| objection                     | A formal objection to an agenda item or decision, potentially affecting adoption of items.                                             |
+| opening                       | The start of a plenary session (procedural item).                                                                                      |
+| point_of_order                | A procedural challenge raised during a sitting to question whether rules of procedure are being followed.                              |
+| procedure                     | Items related to internal Bundestag processes and rules.                                                                               |
+| question_time                 | A scheduled session in which Members ask questions to government representatives.                                                      |
+| questioning_of_the_government | A specific form of interrogation or questioning directed at the government’s actions.                                                  |
+| recent_issues                 | Topics of recent political or societal importance flagged for discussion.                                                              |
+| report                        | Presentation or discussion of reports from committees, commissions, or government bodies.                                              |
+| resolution                    | A formal decision or position adopted by the Bundestag.                                                                                |
+| rules_of_procedure            | Materials or items concerning the parliamentary rules themselves.                                                                      |
+| section                       | A structural subdivision in documents or protocols.                                                                                    |
+| urgent_question               | A question raised on an urgent matter requiring timely government response (similar to “current affairs”).                             |
+| <empty>                       | Not known.                                                                                  |
 
 ### Role
 
